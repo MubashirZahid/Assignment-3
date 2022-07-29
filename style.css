@@ -1,0 +1,9 @@
+.carousel-caption{
+    bottom: 180px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.carousel-caption h5{
+    font-size: 100px;
+    font-weight: 700;
+}
